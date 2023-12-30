@@ -1,7 +1,7 @@
 include(CheckCXXCompilerFlag)
 
 macro(
-  myproject_enable_hardening
+  conky_obsidian_tasks_enable_hardening
   target
   global
   ubsan_minimal_runtime)
